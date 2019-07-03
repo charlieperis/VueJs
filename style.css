@@ -1,0 +1,6 @@
+body {padding:20px; font-family:'Helvetica', sans-serif;}
+
+.non-stock {font-size:10px; color:#FFF; background:#F00; padding:2px 4px; border-radius:4px;}
+.inp-short {width: 30px;}
+.fruta {float: left; width:100%; margin:2px;}
+.nombre-fruta {position: relative; display: inline-block; width:80px;}
